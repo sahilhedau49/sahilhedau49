@@ -11,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahilhedau49&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilhedau49&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilhedau49&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+<br/>
+<a href="https://github.com/sahilhedau49/github-readme-activity-graph"><img alt="Sahil Hedau's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sahilhedau49&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
