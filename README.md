@@ -18,6 +18,8 @@
 <br/>
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+[![An image of @sahilhedau49's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilhedau49)](https://holopin.io/@sahilhedau49)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
