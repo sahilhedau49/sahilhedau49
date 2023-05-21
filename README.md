@@ -16,7 +16,7 @@
 <a href="https://github.com/sahilhedau49/github-readme-activity-graph"><img alt="Sahil Hedau's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sahilhedau49&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 # Hacktoberfest 2022 Badges
 [![An image of @sahilhedau49's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilhedau49)](https://holopin.io/@sahilhedau49)
