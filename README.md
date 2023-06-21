@@ -12,6 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilhedau49&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilhedau49&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <br/>
+<a href="https://github.com/sahilhedau49/github-readme-activity-graph"><img alt="Sahil Hedau's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sahilhedau49&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
