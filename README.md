@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJS<br>👯 I’m looking to collaborate on Full Stack App Projects<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Web Designing and CP<br>⚡ Fun fact, I can solve 3*3 Rubik's Cube under 1 min
+🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on Full Stack App Projects<br>🌱 I’m currently learning NodeJS and Express<br>💬 Ask me about Web Designing and CP<br>⚡ Fun fact, I can solve 3*3 Rubik's Cube under 1 min
 
 
 ## 🌐 Socials:
